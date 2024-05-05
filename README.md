@@ -37,7 +37,9 @@ Hackathon and Ideathon Participation
 **📫 Feel free to reach out to me!**
 
 🌐 LinkedIn: [www.linkedin.com/in/tushartak/](www.linkedin.com/in/tushartak/)
+
 📬 Email: tushartak.work@gmail.com
+
 📞 Phone: +91 7878189995
 
 **🌱🚀 I'm always looking for new opportunities to learn and grow as a developer. If you have any projects or ideas you'd like to collaborate on, don't hesitate to connect!**
