@@ -36,7 +36,7 @@ Hackathon and Ideathon Participation
 
 **📫 Feel free to reach out to me!**
 
-🌐 LinkedIn: [www.linkedin.com/in/tushartak/](www.linkedin.com/in/tushartak/)
+🌐 LinkedIn: https://www.linkedin.com/in/tushartak/
 
 📬 Email: tushartak.work@gmail.com
 
